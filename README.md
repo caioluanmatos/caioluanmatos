@@ -164,12 +164,5 @@
 
 ## 💼 Sobre mim
 
-Desenvolvedor Front-end focado em HTML, CSS, JavaScript e React, com experiência em criação de interfaces responsivas, organização de layouts e integração com APIs.
+Desenvolvedor focado no ecossistema JavaScript, com conhecimentos em React e desenvolvimento de interfaces modernas, responsivas e acessíveis. Tenho interesse em boas práticas de SEO, otimização de performance com Lazy Loading e integração com APIs do navegador e APIs externas. Atualmente, sigo aprimorando minhas habilidades em Front-End, com o objetivo de evoluir profissionalmente para uma carreira Full Stack.
 
-Busco oportunidades como Desenvolvedor Front-end Jr para contribuir com projetos reais, evoluir tecnicamente e agregar valor à equipe através de soluções modernas e funcionais.
-
-### 📚 Atualmente estudando:
-- MySql
-- Responsividade
-- Consumo de APIs
-- AWS
