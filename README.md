@@ -1,82 +1,29 @@
 # 👨‍💻 Caio Luan
 
-### Desenvolvedor Full Stack | React | Node.js | MySQL
+**Desenvolvedor Full Stack | React • Node.js • MySQL**
 
 📍 Rio de Janeiro - RJ  
-📧 caioluanmatos909@gmail.com
+📧 [caioluanmatos909@gmail.com](mailto:caioluanmatos909@gmail.com)
 
 ---
 
 ## 🚀 Linguagens e Tecnologias
 
-### Front-End
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Vite
+**Front-End:**  
+HTML5 • CSS3 • JavaScript • React • Vite
 
-### Back-End
-- Node.js
-- Express.js
-- APIs REST
-- JWT
-- Bcrypt
+**Back-End:**  
+Node.js • Express.js • APIs REST • JWT • Bcrypt
 
-### Banco de Dados
-- MySQL
-- SQL
+**Banco de Dados:**  
+MySQL • SQL
 
-### Ferramentas
-- Git
-- GitHub
-- VS Code
-- NPM
-
----
-
-## 💼 Sobre mim
-
-Sou Desenvolvedor Full Stack focado no ecossistema JavaScript, desenvolvendo aplicações web com **React, Node.js, Express e MySQL**.
-
-Tenho experiência prática na construção de interfaces responsivas, integração entre Front-End e Back-End, desenvolvimento de APIs REST, persistência de dados em MySQL e implementação de autenticação utilizando **JWT e Bcrypt**.
-
-Busco aplicar boas práticas de organização de código, segurança, responsividade e experiência do usuário em meus projetos.
-
-Atualmente, sigo aprofundando meus conhecimentos em desenvolvimento Full Stack através de projetos práticos, evoluindo principalmente em **React, Node.js, APIs e banco de dados**.
-
----
-
-## 🛠️ Projeto em desenvolvimento
-
-### 💰 Finance App
-
-Aplicação Full Stack para organização e controle financeiro pessoal.
-
-**Tecnologias:**
-- React
-- JavaScript
-- Node.js
-- Express
-- MySQL
-- JWT
-- Bcrypt
-
-**Funcionalidades:**
-- Cadastro de usuários
-- Login com senha criptografada
-- Autenticação JWT
-- Rotas protegidas
-- Cadastro de receitas e despesas
-- Transações vinculadas ao usuário autenticado
-- Dashboard financeiro
+**Ferramentas:**  
+Git • GitHub • NPM • VS Code
 
 ---
 
 ## 🌐 Redes Sociais
-
-- LinkedIn
-- GitHub
 
 ---
 
@@ -85,3 +32,17 @@ Aplicação Full Stack para organização e controle financeiro pessoal.
 ---
 
 ## 📈 GitHub Stats
+
+---
+
+## 💼 Sobre mim
+
+Desenvolvedor Full Stack focado no ecossistema JavaScript, com conhecimentos em **React, Node.js, Express e MySQL**, atuando no desenvolvimento de aplicações web modernas e na integração entre Front-End, Back-End e banco de dados.
+
+No Front-End, desenvolvo interfaces modernas, responsivas e acessíveis utilizando React, JavaScript, HTML e CSS, buscando aplicar boas práticas de organização, experiência do usuário e performance.
+
+No Back-End, venho desenvolvendo **APIs REST com Node.js e Express**, integração com **MySQL**, autenticação utilizando **JWT**, criptografia de senhas com **Bcrypt** e implementação de rotas protegidas para controle de acesso aos dados.
+
+Também possuo conhecimentos em integração com APIs do navegador e APIs externas, além de boas práticas de SEO e otimização de carregamento com Lazy Loading.
+
+Atualmente, sigo aprimorando minhas habilidades em desenvolvimento Full Stack através de projetos práticos, aprofundando meus conhecimentos em **React, Node.js, APIs REST, autenticação e bancos de dados**, com foco em evoluir profissionalmente na área de desenvolvimento de software.
