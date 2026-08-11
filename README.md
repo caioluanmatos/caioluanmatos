@@ -1,34 +1,152 @@
-show ajeita bota msql pra mim e coloca desenvolvedor ful stack 
+# 👋 Olá, eu sou o Caio Luan
 
-# 👨‍💻 Caio Luan
+### Desenvolvedor Full Stack | React • Node.js • MySQL
 
-**Desenvolvedor Full Stack Engineer**
+Desenvolvedor Full Stack com foco em construir aplicações web e mobile de alto desempenho, escaláveis e centradas na experiência do usuário.
 
-📍 Rio de Janeiro - RJ
-📧 [caioluanmatos909@gmail.com](mailto\:caioluanmatos909@gmail.com)
-
----
-
-## 🚀 Linguagens e Tecnologias
-
-
+📍 Rio de Janeiro - RJ, Brasil  
+📧 [caioluanmatos909@gmail.com](mailto:caioluanmatos909@gmail.com)
 
 ---
 
-## 🌐 Redes Sociais
+## 🛠 Tecnologias & Ferramentas
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,mysql,python,git,html,css,vite,vscode" />
+
+</p>
+
+### Tecnologias que venho utilizando
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 Estatísticas
+## 👨‍💻 Sobre mim
+
+Desenvolvedor Full Stack focado no ecossistema JavaScript, atuando na construção de aplicações modernas com **React, Node.js, Express e MySQL**.
+
+Tenho experiência prática com desenvolvimento de interfaces responsivas, integração entre Front-End e Back-End, criação e consumo de APIs REST, autenticação com JWT, criptografia de senhas com Bcrypt e persistência de dados em banco MySQL.
+
+Busco desenvolver aplicações com boa organização de código, segurança, performance e experiência do usuário.
+
+Atualmente, sigo aprofundando meus conhecimentos em arquitetura de aplicações, React, Node.js, banco de dados e desenvolvimento mobile.
 
 ---
 
-## 📈 GitHub Stats
+## ⭐ Destaques
 
-
+- 💻 Desenvolvimento de aplicações web responsivas
+- 🔗 Integração com APIs REST e bancos de dados
+- 🔐 Autenticação com JWT e Bcrypt
+- 🗄️ Persistência de dados com MySQL
+- ⚡ Foco em performance e boas práticas
+- 📱 Evoluindo em desenvolvimento mobile
+- 🤖 Interesse em integração de IA em aplicações
 
 ---
 
-## 💼 Sobre mim
+## 🚀 Projeto em destaque
 
-Desenvolvedor focado no ecossistema JavaScript, com conhecimentos em React e desenvolvimento de interfaces modernas, responsivas e acessíveis. Tenho interesse em boas práticas de SEO, otimização de performance com Lazy Loading e integração com APIs do navegador e APIs externas. Atualmente, sigo aprimorando minhas habilidades em Front-End, com o objetivo de evoluir profissionalmente para uma carreira Full Stack.
+### 💰 Finance App
+
+Aplicação Full Stack para organização e controle financeiro pessoal.
+
+**Stack principal:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+Principais funcionalidades:
+
+- Cadastro de usuários
+- Login seguro
+- Criptografia de senhas com Bcrypt
+- Autenticação com JWT
+- Rotas protegidas
+- Cadastro de receitas e despesas
+- Transações vinculadas ao usuário autenticado
+- Dashboard financeiro
+- Integração React + Node.js + MySQL
+
+🔗 [Ver Finance App](https://github.com/caioluanmatos/Finance-App)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+
+<img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=caioluanmatos&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioluanmatos&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🔥 Atividade no GitHub
+
+<p align="center">
+
+<img
+    src="https://streak-stats.demolab.com?user=caioluanmatos&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 📈 Gráfico de contribuições
+
+<p align="center">
+
+<img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=caioluanmatos&theme=tokyo-night&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="left">
+
+<a href="https://github.com/caioluanmatos">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="COLOQUE_SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:caioluanmatos909@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+    💻 Desenvolvendo hoje. Evoluindo sempre.
+</p>
