@@ -1,101 +1,79 @@
-<h1>👋 Olá, eu sou Caio Luan</h1>
+# 👋 Olá, eu sou Caio Luan
 
-<p>
-  <strong>Full Stack Developer — building web applications and AI-powered solutions with React, Node.js and Python</strong>
-</p>
+### Full Stack Developer — building web applications and AI-powered solutions with React, Node.js and Python
 
-<p>
-  📍 Rio de Janeiro, Brazil · 🌎 Open to remote international opportunities
-</p>
+📍 Rio de Janeiro, Brazil · 🌎 Open to remote international opportunities
 
-<p>
-  <a href="SEU_LINKEDIN">
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL">
-    Email
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/desenvolvendofrontcaioluan/) · [Email](caioluanmatos909@gmail.com)
 
 ---
 
 ## 💼 Experience
 
-### 💰 Financial Management System — Full Stack Developer
-**Freelance / Independent Project · 2026–Present**
+### 💰 Financial Management System
+**Full Stack Developer · Freelance / Independent Project · 2026–Present**
 
-Web application developed to help users manage and organize their
-personal finances, allowing them to register, track and manage
-financial transactions in one place.
+Web application focused on personal financial management, allowing users
+to register, organize and track their financial transactions in one place.
 
-- **Full Stack Development** — development of the application from the frontend to the backend, connecting the different layers of the system.
-- **Frontend** — development of the user interface using React, focusing on reusable components, usability and responsive design.
-- **Backend & APIs** — development and integration of APIs responsible for application operations and data management.
-- **Authentication** — implementation of user authentication and access control.
-- **Database Integration** — data persistence and integration between the application and the database.
-- **Financial Management** — transaction management including description, amount, type and date.
-- **Problem Solving** — analysis and resolution of technical problems encountered during development.
-- **Continuous Development** — implementation of improvements, bug fixes and new features throughout the project.
+- **Full Stack Development** — application development from frontend to backend.
+- **Frontend** — React interface with reusable components and responsive design.
+- **Backend & APIs** — REST APIs for application operations and data management.
+- **Authentication** — user authentication and access control.
+- **Database** — data persistence and integration with the application.
+- **Financial Management** — transaction management with description, amount, type and date.
+- **Problem Solving** — analysis and resolution of technical problems during development.
+- **Continuous Development** — improvements, fixes and new features.
 
-**Technologies:** React · JavaScript · Node.js · APIs · Database
+**Stack:** React · JavaScript · Node.js · REST API · Database
 
 ---
 
-### 🤖 AI Agents & Intelligent Solutions — Full Stack Developer
-**Freelance / Independent Projects · 2026–Present**
+### 🤖 AI Agents & Intelligent Solutions
+**Full Stack Developer · Freelance / Independent Projects · 2026–Present**
 
-Development of applications and AI-powered solutions focused on
-automation, information processing and practical problem solving.
+Development of AI-powered applications and intelligent solutions focused
+on automation, information processing and practical problem solving.
 
-- **AI Agents** — development of specialized agents designed to perform tasks and interact with user-provided information.
-- **LLM Integration** — integration of Large Language Models into web applications.
+- **AI Agents** — specialized agents designed to perform specific tasks.
+- **LLM Integration** — integration of language models into applications.
 - **Backend Integration** — communication between AI agents, APIs and application services.
-- **Prompt Engineering** — design and optimization of prompts according to each agent's purpose.
-- **RAG Solutions** — experimentation with Retrieval-Augmented Generation to provide relevant context to AI models.
-- **Automation** — development of intelligent workflows to automate repetitive tasks and processes.
+- **Prompt Engineering** — prompt design according to each solution's objective.
+- **RAG** — experimentation with retrieval-based AI solutions.
+- **Automation** — intelligent workflows designed to automate repetitive processes.
 
-**Technologies:** Python · JavaScript · Node.js · AI · LLM · RAG · APIs
+**Stack:** Python · JavaScript · Node.js · AI · LLM · RAG · APIs
 
 ---
+
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<p>
-  React · JavaScript · HTML5 · CSS3
-</p>
+**Frontend**
 
-### Backend
-<p>
-  Node.js · Express.js · Python · REST APIs
-</p>
+`React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3`
 
-### Artificial Intelligence
-<p>
-  Python · LLMs · AI Agents · RAG · Prompt Engineering
-</p>
+**Backend**
 
-### Database
-<p>
-  MySQL · MongoDB
-</p>
+`Node.js` `Express.js` `Python` `REST APIs`
 
-### Tools
-<p>
-  Git · GitHub · VS Code
-</p>
+**AI**
+
+`Python` `LLMs` `AI Agents` `RAG` `Prompt Engineering`
+
+**Database**
+
+`MySQL` `MongoDB`
 
 ---
 
 ## 🚀 What I'm Building
 
-Currently building web applications, full stack systems and
-AI-powered solutions focused on solving real-world problems.
+Currently building web applications, full stack systems and AI-powered
+solutions focused on solving real-world problems.
 
-I work on projects from idea to implementation, exploring
-different technologies and architectures while continuously
-improving the quality and functionality of each solution.
+I work on projects from idea to implementation, focusing on practical
+solutions, continuous improvement and real-world applications of technology.
 
 ---
 
@@ -109,18 +87,15 @@ Análise e Desenvolvimento de Sistemas
 
 ## 📫 Contact
 
-<p>
-  📍 Rio de Janeiro, Brazil
-</p>
+📍 Rio de Janeiro, Brazil
+
+🌎 Open to remote international opportunities
 
 <p>
-  🌎 Open to remote international opportunities
-</p>
-
-<p>
-  💼 <a href="SEU_LINKEDIN">LinkedIn</a>
-</p>
-
-<p>
-  📧 <a href="mailto:SEU_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/desenvolvendofrontcaioluan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:caioluanmatos909@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
