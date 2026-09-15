@@ -1,101 +1,70 @@
-# 👋 Olá, eu sou Caio Luan
+# 👋 Hi, I'm Caio Luan
 
-### Full Stack Developer — building web applications and AI-powered solutions with React, Node.js and Python
+### Full Stack Developer & AI Solutions Builder
+Building scalable web applications and AI-driven solutions with **React**, **Node.js**, and **Python**.
 
-📍 Rio de Janeiro, Brazil · 🌎 Open to remote international opportunities
+📍 Rio de Janeiro, Brazil · 🌎 Open to remote & international opportunities
 
-[LinkedIn](https://www.linkedin.com/in/desenvolvendofrontcaioluan/) · [Email](caioluanmatos909@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desenvolvendofrontcaioluan/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioluanmatos909@gmail.com)
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack & Tools *(Click to visit)*
+
+### Frontend
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Backend & Databases
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### AI & Modern Tech
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+---
+
+## 💼 Experience & Projects
 
 ### 💰 Financial Management System
-**Full Stack Developer · Freelance / Independent Project · 2026–Present**
+**Full Stack Developer · Freelance / Independent Project**  
+*Web application focused on personal finance tracking, transactions and balance management.*
 
-Web application focused on personal financial management, allowing users
-to register, organize and track their financial transactions in one place.
-
-- **Full Stack Development** — application development from frontend to backend.
-- **Frontend** — React interface with reusable components and responsive design.
-- **Backend & APIs** — REST APIs for application operations and data management.
-- **Authentication** — user authentication and access control.
-- **Database** — data persistence and integration with the application.
-- **Financial Management** — transaction management with description, amount, type and date.
-- **Problem Solving** — analysis and resolution of technical problems during development.
-- **Continuous Development** — improvements, fixes and new features.
-
-**Stack:** React · JavaScript · Node.js · REST API · Database
+- **Full Stack Architecture:** Developed end-to-end using React and a modular Node.js REST API.
+- **Security & Persistence:** Implemented user authentication, access control, and database persistence.
+- **Features:** Categorized transaction management, financial summaries, and responsive design.
 
 ---
 
 ### 🤖 AI Agents & Intelligent Solutions
-**Full Stack Developer · Freelance / Independent Projects · 2026–Present**
+**Full Stack Developer · Independent Projects**  
+*Autonomous AI systems and LLM integrations focused on process automation.*
 
-Development of AI-powered applications and intelligent solutions focused
-on automation, information processing and practical problem solving.
-
-- **AI Agents** — specialized agents designed to perform specific tasks.
-- **LLM Integration** — integration of language models into applications.
-- **Backend Integration** — communication between AI agents, APIs and application services.
-- **Prompt Engineering** — prompt design according to each solution's objective.
-- **RAG** — experimentation with retrieval-based AI solutions.
-- **Automation** — intelligent workflows designed to automate repetitive processes.
-
-**Stack:** Python · JavaScript · Node.js · AI · LLM · RAG · APIs
-
----
-
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-`React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3`
-
-**Backend**
-
-`Node.js` `Express.js` `Python` `REST APIs`
-
-**AI**
-
-`Python` `LLMs` `AI Agents` `RAG` `Prompt Engineering`
-
-**Database**
-
-`MySQL` `MongoDB`
-
----
-
-## 🚀 What I'm Building
-
-Currently building web applications, full stack systems and AI-powered
-solutions focused on solving real-world problems.
-
-I work on projects from idea to implementation, focusing on practical
-solutions, continuous improvement and real-world applications of technology.
+- **AI Agents & Workflows:** Built specialized agents capable of executing multi-step tasks.
+- **RAG & Prompt Engineering:** Designed retrieval pipelines and context-aware prompts for real-world scenarios.
+- **API Orchestration:** Connected AI models to backend services and external APIs.
 
 ---
 
 ## 🎓 Education
 
-**Estácio de Sá**
-
-Análise e Desenvolvimento de Sistemas
+**Universidade Estácio de Sá**  
+*Análise e Desenvolvimento de Sistemas*
 
 ---
 
-## 📫 Contact
+## 📫 Get in Touch
 
-📍 Rio de Janeiro, Brazil
-
-🌎 Open to remote international opportunities
-
-<p>
-  <a href="https://www.linkedin.com/in/desenvolvendofrontcaioluan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:caioluanmatos909@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desenvolvendofrontcaioluan/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioluanmatos909@gmail.com)
