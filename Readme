@@ -1,0 +1,126 @@
+<h1>👋 Olá, eu sou Caio Luan</h1>
+
+<p>
+  <strong>Full Stack Developer — building web applications and AI-powered solutions with React, Node.js and Python</strong>
+</p>
+
+<p>
+  📍 Rio de Janeiro, Brazil · 🌎 Open to remote international opportunities
+</p>
+
+<p>
+  <a href="SEU_LINKEDIN">
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:SEU_EMAIL">
+    Email
+  </a>
+</p>
+
+---
+
+## 💼 Experience
+
+### 💰 Financial Management System — Full Stack Developer
+**Freelance / Independent Project · 2026–Present**
+
+Web application developed to help users manage and organize their
+personal finances, allowing them to register, track and manage
+financial transactions in one place.
+
+- **Full Stack Development** — development of the application from the frontend to the backend, connecting the different layers of the system.
+- **Frontend** — development of the user interface using React, focusing on reusable components, usability and responsive design.
+- **Backend & APIs** — development and integration of APIs responsible for application operations and data management.
+- **Authentication** — implementation of user authentication and access control.
+- **Database Integration** — data persistence and integration between the application and the database.
+- **Financial Management** — transaction management including description, amount, type and date.
+- **Problem Solving** — analysis and resolution of technical problems encountered during development.
+- **Continuous Development** — implementation of improvements, bug fixes and new features throughout the project.
+
+**Technologies:** React · JavaScript · Node.js · APIs · Database
+
+---
+
+### 🤖 AI Agents & Intelligent Solutions — Full Stack Developer
+**Freelance / Independent Projects · 2026–Present**
+
+Development of applications and AI-powered solutions focused on
+automation, information processing and practical problem solving.
+
+- **AI Agents** — development of specialized agents designed to perform tasks and interact with user-provided information.
+- **LLM Integration** — integration of Large Language Models into web applications.
+- **Backend Integration** — communication between AI agents, APIs and application services.
+- **Prompt Engineering** — design and optimization of prompts according to each agent's purpose.
+- **RAG Solutions** — experimentation with Retrieval-Augmented Generation to provide relevant context to AI models.
+- **Automation** — development of intelligent workflows to automate repetitive tasks and processes.
+
+**Technologies:** Python · JavaScript · Node.js · AI · LLM · RAG · APIs
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  React · JavaScript · HTML5 · CSS3
+</p>
+
+### Backend
+<p>
+  Node.js · Express.js · Python · REST APIs
+</p>
+
+### Artificial Intelligence
+<p>
+  Python · LLMs · AI Agents · RAG · Prompt Engineering
+</p>
+
+### Database
+<p>
+  MySQL · MongoDB
+</p>
+
+### Tools
+<p>
+  Git · GitHub · VS Code
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+Currently building web applications, full stack systems and
+AI-powered solutions focused on solving real-world problems.
+
+I work on projects from idea to implementation, exploring
+different technologies and architectures while continuously
+improving the quality and functionality of each solution.
+
+---
+
+## 🎓 Education
+
+**Estácio de Sá**
+
+Análise e Desenvolvimento de Sistemas
+
+---
+
+## 📫 Contact
+
+<p>
+  📍 Rio de Janeiro, Brazil
+</p>
+
+<p>
+  🌎 Open to remote international opportunities
+</p>
+
+<p>
+  💼 <a href="SEU_LINKEDIN">LinkedIn</a>
+</p>
+
+<p>
+  📧 <a href="mailto:SEU_EMAIL">Email</a>
+</p>
